@@ -1,0 +1,7 @@
+[$XDG_CONFIG_HOME/vcsh/repo.d/gnupg.git]
+checkout = vcsh clone 'keybase://private/gnupg.git' 'gnupg'
+update   = vcsh gnupg pull
+push     = vcsh gnupg push
+status   = vcsh gnupg status
+gc       = vcsh gnupg gc
+
