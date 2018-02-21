@@ -1,5 +1,5 @@
 [$XDG_CONFIG_HOME/vcsh/repo.d/maven.git]
-checkout = vcsh clone 'keybase://private/maven.git' 'maven'
+checkout = vcsh clone 'keybase://private/zxiiro/maven.git' 'maven'
 update   = vcsh maven pull
 push     = vcsh maven push
 status   = vcsh maven status

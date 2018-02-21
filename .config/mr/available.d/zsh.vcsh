@@ -1,5 +1,5 @@
 [$XDG_CONFIG_HOME/vcsh/repo.d/zsh.git]
-checkout = vcsh clone 'keybase://private/zsh.git' 'zsh'
+checkout = vcsh clone 'keybase://private/zxiiro/zsh.git' 'zsh'
 update   = vcsh zsh pull
 push     = vcsh zsh push
 status   = vcsh zsh status

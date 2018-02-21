@@ -1,5 +1,5 @@
 [$XDG_CONFIG_HOME/vcsh/repo.d/atom.git]
-checkout = vcsh clone 'keybase://private/atom.git' 'atom'
+checkout = vcsh clone 'keybase://private/zxiiro/atom.git' 'atom'
 update   = vcsh atom pull
 push     = vcsh atom push
 status   = vcsh atom status

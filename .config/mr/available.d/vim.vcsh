@@ -1,5 +1,5 @@
 [$XDG_CONFIG_HOME/vcsh/repo.d/vim.git]
-checkout = vcsh clone 'keybase://private/vim.git' 'vim'
+checkout = vcsh clone 'keybase://private/zxiiro/vim.git' 'vim'
 update   = vcsh vim pull
 push     = vcsh vim push
 status   = vcsh vim status

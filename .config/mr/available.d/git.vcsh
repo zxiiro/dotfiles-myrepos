@@ -1,5 +1,5 @@
 [$XDG_CONFIG_HOME/vcsh/repo.d/git.git]
-checkout = vcsh clone 'keybase://private/git.git' 'git'
+checkout = vcsh clone 'keybase://private/zxiiro/git.git' 'git'
 update   = vcsh git pull
 push     = vcsh git push
 status   = vcsh git status
