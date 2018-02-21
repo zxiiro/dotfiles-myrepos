@@ -1,0 +1,5 @@
+[roles/docker-install]
+checkout = git clone 'https://gerrit.linuxfoundation.org/infra/ansible/roles/docker-install.git' 'docker-install'
+
+[roles/system-update]
+checkout = git clone 'https://gerrit.linuxfoundation.org/infra/ansible/roles/system-update.git' 'system-update'
