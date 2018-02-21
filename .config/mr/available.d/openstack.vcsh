@@ -1,0 +1,7 @@
+[$XDG_CONFIG_HOME/vcsh/repo.d/openstack.git]
+checkout = vcsh clone 'keybase://private/openstack.git' 'openstack'
+update   = vcsh openstack pull
+push     = vcsh openstack push
+status   = vcsh openstack status
+gc       = vcsh openstack gc
+
