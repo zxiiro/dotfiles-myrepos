@@ -1,0 +1,7 @@
+[$XDG_CONFIG_HOME/vcsh/repo.d/myrepos.git]
+checkout = vcsh clone 'keybase://private/zxiiro/myrepos.git' 'myrepos'
+update   = vcsh myrepos pull
+push     = vcsh myrepos push
+status   = vcsh myrepos status
+gc       = vcsh myrepos gc
+
