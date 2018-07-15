@@ -1,0 +1,5 @@
+[$HOME/src/git.opendaylight.org/docs]
+checkout = git clone 'https://git.opendaylight.org/gerrit/docs' 'docs'
+
+[$HOME/src/git.opendaylight.org/releng/builder]
+checkout = git clone 'https://git.opendaylight.org/gerrit/releng/builder' 'releng-builder'
