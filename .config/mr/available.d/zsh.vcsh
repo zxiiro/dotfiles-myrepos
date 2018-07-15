@@ -1,7 +1,7 @@
 [$XDG_CONFIG_HOME/vcsh/repo.d/zsh.git]
 checkout =
     vcsh clone 'keybase://private/zxiiro/zsh.git' 'zsh'
-    vcsh remote add github 'git@github.com:zxiiro/dotfiles-zsh.git'
+    vcsh zsh remote add github 'git@github.com:zxiiro/dotfiles-zsh.git'
 update =
     vcsh zsh pull
 push =

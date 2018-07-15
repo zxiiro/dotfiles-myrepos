@@ -1,7 +1,11 @@
 [$XDG_CONFIG_HOME/vcsh/repo.d/vim.git]
-checkout = vcsh clone 'keybase://private/zxiiro/vim.git' 'vim'
+checkout =
+    vcsh clone 'keybase://private/zxiiro/vim.git' 'vim'
+    vcsh vim remote add github 'git@github.com:zxiiro/dotfiles-vim.git'
 update   = vcsh vim pull
-push     = vcsh vim push
+push     =
+    vcsh vim push
+    vcsh vim push github
 status   = vcsh vim status
 gc       = vcsh vim gc
 
