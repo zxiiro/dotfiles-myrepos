@@ -1,0 +1,11 @@
+[$HOME/src/github.com/zxiiro/ansible-arch-install]
+checkout = git clone 'git@github.com:zxiiro/ansible-arch-install.git' 'ansible-arch-install'
+
+[$HOME/src/github.com/zxiiro/presentations]
+checkout = git clone 'git@github.com:zxiiro/presentations.git' 'presentations'
+
+[$HOME/src/github.com/zxiiro/website]
+checkout = git clone 'git@github.com:zxiiro/website.git' 'website'
+
+[$HOME/src/github.com/zxiiro/zxiiro.github.io]
+checkout = git clone 'git@github.com:zxiiro/zxiiro.github.io.git' 'zxiiro.github.io'
