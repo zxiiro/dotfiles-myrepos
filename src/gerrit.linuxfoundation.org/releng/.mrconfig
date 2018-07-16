@@ -1,14 +1,17 @@
-[ci-workshop]
+[$HOME/src/gerrit.linuxfoundation.org/releng/ci-workshop]
 checkout = git clone 'https://gerrit.linuxfoundation.org/infra/releng/ci-workshop.git' 'ci-workshop'
 
-[docs]
+[$HOME/src/gerrit.linuxfoundation.org/releng/common-packer]
+checkout = git clone 'https://gerrit.linuxfoundation.org/infra/releng/ci-workshop.git' 'common-packer'
+
+[$HOME/src/gerrit.linuxfoundation.org/releng/docs]
 checkout = git clone 'https://gerrit.linuxfoundation.org/infra/releng/docs.git' 'docs'
 
-[docs-conf]
+[$HOME/src/gerrit.linuxfoundation.org/releng/docs-conf]
 checkout = git clone 'https://gerrit.linuxfoundation.org/infra/releng/docs-conf.git' 'docs-conf'
 
-[global-jjb]
+[$HOME/src/gerrit.linuxfoundation.org/releng/global-jjb]
 checkout = git clone 'https://gerrit.linuxfoundation.org/infra/releng/global-jjb.git' 'global-jjb'
 
-[lftools]
+[$HOME/src/gerrit.linuxfoundation.org/releng/lftools]
 checkout = git clone 'https://gerrit.linuxfoundation.org/infra/releng/lftools.git' 'lftools'
