@@ -1,39 +1,39 @@
-[roles/docker-install]
+[$HOME/src/gerrit.linuxfoundation.org/ansible/roles/docker-install]
 checkout = git clone 'https://gerrit.linuxfoundation.org/infra/ansible/roles/docker-install.git' 'docker-install'
 
-[roles/haveged-install]
+[$HOME/src/gerrit.linuxfoundation.org/ansible/roles/haveged-install]
 checkout = git clone 'https://gerrit.linuxfoundation.org/infra/ansible/roles/haveged-install.git' 'haveged-install'
 
-[roles/java-install]
+[$HOME/src/gerrit.linuxfoundation.org/ansible/roles/java-install]
 checkout = git clone 'https://gerrit.linuxfoundation.org/infra/ansible/roles/java-install.git' 'java-install'
 
-[roles/lf-dev-libs]
+[$HOME/src/gerrit.linuxfoundation.org/ansible/roles/lf-dev-libs]
 checkout = git clone 'https://gerrit.linuxfoundation.org/infra/ansible/roles/lf-dev-libs.git' 'lf-dev-libs'
 
-[roles/lf-recommended-tools]
+[$HOME/src/gerrit.linuxfoundation.org/ansible/roles/lf-recommended-tools]
 checkout = git clone 'https://gerrit.linuxfoundation.org/infra/ansible/roles/lf-recommended-tools.git' 'lf-recommended-tools'
 
-[roles/mono-install]
+[$HOME/src/gerrit.linuxfoundation.org/ansible/roles/mono-install]
 checkout = git clone 'https://gerrit.linuxfoundation.org/infra/ansible/roles/mono-install.git' 'mono-install'
 
-[roles/packer-install]
+[$HOME/src/gerrit.linuxfoundation.org/ansible/roles/packer-install]
 checkout = git clone 'https://gerrit.linuxfoundation.org/infra/ansible/roles/packer-install.git' 'packer-install'
 
-[roles/protobuf-install]
+[$HOME/src/gerrit.linuxfoundation.org/ansible/roles/protobuf-install]
 checkout = git clone 'https://gerrit.linuxfoundation.org/infra/ansible/roles/protobuf-install.git' 'protobuf-install'
 
-[roles/puppet-install]
+[$HOME/src/gerrit.linuxfoundation.org/ansible/roles/puppet-install]
 checkout = git clone 'https://gerrit.linuxfoundation.org/infra/ansible/roles/puppet-install.git' 'puppet-install'
 
-[roles/python-install]
+[$HOME/src/gerrit.linuxfoundation.org/ansible/roles/python-install]
 checkout = git clone 'https://gerrit.linuxfoundation.org/infra/ansible/roles/python-install.git' 'python-install'
 
-[roles/shellcheck-install]
+[$HOME/src/gerrit.linuxfoundation.org/ansible/roles/shellcheck-install]
 checkout = git clone 'https://gerrit.linuxfoundation.org/infra/ansible/roles/shellcheck-install.git' 'shellcheck-install'
 
-[roles/sysstat-install]
+[$HOME/src/gerrit.linuxfoundation.org/ansible/roles/sysstat-install]
 checkout = git clone 'https://gerrit.linuxfoundation.org/infra/ansible/roles/sysstat-install.git' 'sysstat-install'
 
-[roles/system-update]
+[$HOME/src/gerrit.linuxfoundation.org/ansible/roles/system-update]
 checkout = git clone 'https://gerrit.linuxfoundation.org/infra/ansible/roles/system-update.git' 'system-update'
 

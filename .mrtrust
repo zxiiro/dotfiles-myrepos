@@ -1,4 +1,6 @@
 ~/git/lf/releng/.mrconfig
+~/src/gerrit.linuxfoundation.org/.mrconfig
+~/src/gerrit.linuxfoundation.org/ansible/.mrconfig
 ~/src/gerrit.linuxfoundation.org/releng/.mrconfig
 ~/src/git.opendaylight.org/.mrconfig
 ~/src/github.com/AcademySoftwareFoundation/.mrconfig

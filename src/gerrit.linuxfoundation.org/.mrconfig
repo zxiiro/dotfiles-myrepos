@@ -1,0 +1,2 @@
+include = cat $HOME/src/gerrit.linuxfoundation.org/ansible/.mrconfig
+include = cat $HOME/src/gerrit.linuxfoundation.org/releng/.mrconfig
