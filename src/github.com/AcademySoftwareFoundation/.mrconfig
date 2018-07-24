@@ -1,5 +1,8 @@
 [$HOME/src/github.com/AcademySoftwareFoundation/ci-management]
 checkout = git clone 'git@github.com:AcademySoftwareFoundation/ci-management.git' 'ci-management'
 
+[$HOME/src/github.com/AcademySoftwareFoundation/opencolorio]
+checkout = git clone 'git@github.com:AcademySoftwareFoundation/opencolorio.git' 'opencolorio'
+
 [$HOME/src/github.com/AcademySoftwareFoundation/openexr]
 checkout = git clone 'git@github.com:AcademySoftwareFoundation/openexr.git' 'openexr'
