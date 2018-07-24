@@ -1,0 +1,2 @@
+[$HOME/src/gerrit.akraino.org/ci-management]
+checkout = git clone 'https://gerrit.akraino.org/gerrit/ci-management' 'ci-management'
