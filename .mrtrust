@@ -4,3 +4,4 @@
 ~/src/gerrit.linuxfoundation.org/releng/.mrconfig
 ~/src/git.opendaylight.org/.mrconfig
 ~/src/github.com/AcademySoftwareFoundation/.mrconfig
+~/src/review.openstack.org/.mrconfig
