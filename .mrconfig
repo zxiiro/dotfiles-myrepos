@@ -3,6 +3,6 @@ include = cat ${XDG_CONFIG_HOME:-$HOME/.config}/mr/config.d/*
 include = cat $HOME/src/github.com/zxiiro/.mrconfig
 
 [$HOME/.oh-my-zsh]
-checkout = git clone 'https://github.com/robbyrussell/oh-my-zsh.git' 'oh-my-zsh'
+checkout = git clone 'https://github.com/robbyrussell/oh-my-zsh.git' '.oh-my-zsh'
 push = echo 'Skipping... not a repo we can push to.'
 
