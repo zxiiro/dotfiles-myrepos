@@ -1,0 +1,11 @@
+[$XDG_CONFIG_HOME/vcsh/repo.d/sublime-text.git]
+checkout =
+    vcsh clone 'keybase://private/zxiiro/sublime-text.git' 'sublime-text'
+    vcsh sublime-text remote add github 'git@github.com:zxiiro/dotfiles-sublime-text.git'
+update   = vcsh sublime-text pull
+push     =
+    vcsh sublime-text push
+    vcsh sublime-text push github
+status   = vcsh sublime-text status
+gc       = vcsh sublime-text gc
+
