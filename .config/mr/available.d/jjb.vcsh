@@ -1,7 +1,0 @@
-[$XDG_CONFIG_HOME/vcsh/repo.d/jjb.git]
-checkout = vcsh clone 'keybase://private/zxiiro/jjb.git' 'jjb'
-update   = vcsh jjb pull
-push     = vcsh jjb push
-status   = vcsh jjb status
-gc       = vcsh jjb gc
-
