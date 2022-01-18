@@ -1,7 +1,0 @@
-[$XDG_CONFIG_HOME/vcsh/repo.d/awscli.git]
-checkout = vcsh clone 'keybase://private/zxiiro/awscli.git' 'awscli'
-update   = vcsh git pull
-push     = vcsh git push
-status   = vcsh git status
-gc       = vcsh git gc
-
