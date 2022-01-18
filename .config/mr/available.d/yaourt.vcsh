@@ -1,7 +1,0 @@
-[$XDG_CONFIG_HOME/vcsh/repo.d/yaourt.git]
-checkout = vcsh clone 'keybase://private/zxiiro/yaourt.git' 'yaourt'
-update   = vcsh yaourt pull
-push     = vcsh yaourt push
-status   = vcsh yaourt status
-gc       = vcsh yaourt gc
-
