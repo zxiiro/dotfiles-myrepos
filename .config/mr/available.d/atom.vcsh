@@ -4,7 +4,6 @@ checkout =
 update   = vcsh atom pull
 push     =
     vcsh atom push
-    vcsh atom push github
 status   = vcsh atom status
 gc       = vcsh atom gc
 

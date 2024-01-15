@@ -4,7 +4,6 @@ checkout =
 update   = vcsh vim pull
 push     =
     vcsh vim push
-    vcsh vim push github
 status   = vcsh vim status
 gc       = vcsh vim gc
 

@@ -5,7 +5,6 @@ update =
     vcsh zsh pull
 push =
     vcsh zsh push
-    vcsh zsh push github
 status   = vcsh zsh status
 gc       = vcsh zsh gc
 
