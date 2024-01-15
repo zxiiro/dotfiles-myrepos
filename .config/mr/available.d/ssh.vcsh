@@ -1,0 +1,9 @@
+[$XDG_CONFIG_HOME/vcsh/repo.d/ssh.git]
+checkout =
+    vcsh clone 'https://github.com/zxiiro/dotfiles-ssh.git' 'ssh'
+update   = vcsh ssh pull
+push     =
+    vcsh ssh push
+status   = vcsh ssh status
+gc       = vcsh ssh gc
+
