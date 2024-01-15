@@ -1,6 +1,6 @@
 [$XDG_CONFIG_HOME/vcsh/repo.d/vim.git]
 checkout =
-    vcsh clone 'git@github.com:zxiiro/dotfiles-vim.git' 'vim'
+    vcsh clone 'https://github.com/zxiiro/dotfiles-vim.git' 'vim'
 update   = vcsh vim pull
 push     =
     vcsh vim push

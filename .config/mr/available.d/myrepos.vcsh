@@ -1,5 +1,5 @@
 [$XDG_CONFIG_HOME/vcsh/repo.d/myrepos.git]
-checkout = vcsh clone 'git@github.com:zxiiro/dotfiles-myrepos.git' 'myrepos'
+checkout = vcsh clone 'https://github.com/zxiiro/dotfiles-myrepos.git' 'myrepos'
 update   = vcsh myrepos pull
 push     = vcsh myrepos push
 status   = vcsh myrepos status

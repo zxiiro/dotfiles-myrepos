@@ -1,5 +1,5 @@
 [$XDG_CONFIG_HOME/vcsh/repo.d/gnupg.git]
-checkout = vcsh clone 'git@github.com:zxiiro/dotfiles-gnupg.git' 'gnupg'
+checkout = vcsh clone 'https://github.com/zxiiro/dotfiles-gnupg.git' 'gnupg'
 update   = vcsh gnupg pull
 push     = vcsh gnupg push
 status   = vcsh gnupg status

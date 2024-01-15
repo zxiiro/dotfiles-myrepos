@@ -1,6 +1,6 @@
 [$XDG_CONFIG_HOME/vcsh/repo.d/zsh.git]
 checkout =
-    vcsh clone 'git@github.com:zxiiro/dotfiles-zsh.git' 'zsh'
+    vcsh clone 'https://github.com/zxiiro/dotfiles-zsh.git' 'zsh'
 update =
     vcsh zsh pull
 push =

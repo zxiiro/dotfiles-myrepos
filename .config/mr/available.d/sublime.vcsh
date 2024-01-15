@@ -1,6 +1,6 @@
 [$XDG_CONFIG_HOME/vcsh/repo.d/sublime.git]
 checkout =
-    vcsh clone 'git@github.com:zxiiro/dotfiles-sublime.git' 'sublime'
+    vcsh clone 'https://github.com/zxiiro/dotfiles-sublime.git' 'sublime'
 update   = vcsh sublime pull
 push     =
     vcsh sublime push
