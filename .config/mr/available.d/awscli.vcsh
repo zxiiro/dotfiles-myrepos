@@ -1,0 +1,9 @@
+[$XDG_CONFIG_HOME/vcsh/repo.d/awscli.git]
+checkout =
+    vcsh clone 'https://github.com/zxiiro/dotfiles-awscli.git' 'awscli'
+update   = vcsh awscli pull
+push     =
+    vcsh awscli push
+status   = vcsh awscli status
+gc       = vcsh awscli gc
+
