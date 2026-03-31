@@ -1,0 +1,10 @@
+[$XDG_CONFIG_HOME/vcsh/repo.d/claude.git]
+checkout =
+    vcsh clone 'https://github.com/zxiiro/dotfiles-claude.git' 'claude'
+update =
+    vcsh claude pull
+push =
+    vcsh claude push
+status   = vcsh zsh status
+gc       = vcsh zsh gc
+
