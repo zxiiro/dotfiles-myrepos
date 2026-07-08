@@ -5,6 +5,6 @@ update =
     vcsh claude pull
 push =
     vcsh claude push
-status   = vcsh zsh status
-gc       = vcsh zsh gc
+status   = vcsh claude status
+gc       = vcsh claude gc
 
