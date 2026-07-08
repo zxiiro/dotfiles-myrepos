@@ -4,4 +4,8 @@ update   = vcsh git pull
 push     = vcsh git push
 status   = vcsh git status
 gc       = vcsh git gc
+fixups =
+    op inject --account linuxfoundation.1password.com -f \
+        -i "$HOME/.gitconfig.local.tmpl" -o "$HOME/.gitconfig.local"
+    chmod 600 "$HOME/.gitconfig.local"
 

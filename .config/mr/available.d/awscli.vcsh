@@ -6,4 +6,7 @@ push     =
     vcsh awscli push
 status   = vcsh awscli status
 gc       = vcsh awscli gc
+fixups =
+    chmod +x "$HOME/.aws/op-credential-process"
+    mkdir -p "$HOME/.aws/op-session-cache" && chmod 700 "$HOME/.aws/op-session-cache"
 
