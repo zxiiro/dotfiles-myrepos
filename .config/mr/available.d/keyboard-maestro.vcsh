@@ -1,0 +1,8 @@
+[$XDG_CONFIG_HOME/vcsh/repo.d/keyboard-maestro.git]
+checkout =
+    vcsh clone 'https://github.com/zxiiro/dotfiles-keyboard-maestro.git' 'keyboard-maestro'
+update   = vcsh keyboard-maestro pull
+push     =
+    vcsh keyboard-maestro push
+status   = vcsh keyboard-maestro status
+gc       = vcsh keyboard-maestro gc
